@@ -109,8 +109,16 @@ typedef enum {
         }
     }
     
-    
     NSError *error = nil;
+  /*
+    [device lockForConfiguration:&error];
+#warning CHANGE/TEST LATER
+    // device.manualExposureSupportEnabled = YES;
+  //  device.exposureMode = AVCaptureExposureModeLocked;
+    //    device.activeFormat = bestFormat;
+#warning CHANGE/TEST LATER
+    [device unlockForConfiguration];
+  */  
     AVCaptureDeviceInput *input = [AVCaptureDeviceInput
                                    deviceInputWithDevice:device error:&error];
     if(error != nil)

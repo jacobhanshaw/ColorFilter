@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D35B969-3343-48D2-A667-D3F4B60BD0C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorFilter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>51DCD5CB-C2D4-4106-B55C-BEA36BC0020E</key>
+		<string>https://github.com/jacobhanshaw/ColorFilter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColorFilter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>51DCD5CB-C2D4-4106-B55C-BEA36BC0020E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jacobhanshaw/ColorFilter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51DCD5CB-C2D4-4106-B55C-BEA36BC0020E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51DCD5CB-C2D4-4106-B55C-BEA36BC0020E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColorFilter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
